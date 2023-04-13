@@ -1,0 +1,8 @@
+pandas
+streamlit
+numpy
+fast_bitrix24
+python-dateutil
+xlsxwriter
+streamlit_lottie
+matplotlib
